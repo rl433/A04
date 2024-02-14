@@ -1,6 +1,6 @@
 <h1>A02 Github,Git and WebStrom Guide</h1>
 
-<h2>Part 1Directions on Using Webstorm.</h2>
+<h2>Part 1 Directions on Using Webstorm.</h2>
 
 ### _Step 1_ Create a GitHub Account
 If you don't have a Github Account head over to [GitHub](https://github.com/)
@@ -43,12 +43,13 @@ You can download it from their official site at [Git](https://git-scm.com/downlo
         <li><b>Repository</b> - A project's folder containing and managing all its files.</li>
     </ul>
 -----
-## References
-* [GitHub](https://github.com/)
-* [Git Official Site](https://git-scm.com/downloads)
-* [WebStorm](https://www.jetbrains.com/webstorm/)
-* [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
-* [Wikipedia - GitHub](https://en.wikipedia.org/wiki/GitHub)
-* [Wikipedia - Git](https://en.wikipedia.org/wiki/Git)
-* [GitHub Documentation - Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
-* [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+<h2>References</h2>
+    <ul>
+        <li>[GitHub](https://github.com/)</li>
+        <li>[Git Official Site](https://git-scm.com/downloads)</li>
+        <li>[WebStorm](https://www.jetbrains.com/webstorm/)</li>
+        <li>[GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)</li>
+        <li>[Wikipedia - GitHub](https://en.wikipedia.org/wiki/GitHub)</li>
+        <li>[Wikipedia - Git](https://en.wikipedia.org/wiki/Git)</li>
+        <li>[GitHub Documentation - Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)</li>
+        <li>[Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)</li>
