@@ -10,12 +10,12 @@ If you don't have a Github Account head over to [GitHub](https://github.com/)
 3. Name your Repository anything that is relevant to you
 4. Add a description if needed and choose public or private
 5. Click on "Create Repository"
------
+
 ### _Step 3_ Download Git
 Git is a version control system used for tracking changes in files and projects.
 You can download it from their official site at [Git](https://git-scm.com/downloads)
 
------
+
 
 ### _Step 4_ Clone the Repository in WebStorm
 1. Install [Webstorm](https://www.jetbrains.com/webstorm/download/#section=windows) if you don't already have it
@@ -26,7 +26,7 @@ You can download it from their official site at [Git](https://git-scm.com/downlo
 6. Paste the URL into the "Git Repository URL"
 7. Choose the directory where you want to clone the repository
 8. Click "Clone" and you are now ready to add, commit, and push changes locally
------
+
 <h2>Part 2: Glossary to include these terms in a bulleted list.</h2>
     <ul>
         <li><b>Branch</b> - A new/separate version of the main repository.</li>
@@ -42,7 +42,6 @@ You can download it from their official site at [Git](https://git-scm.com/downlo
         <li><b>Remote</b> - The version of a repository hosted on a server for example GitHub.</li>
         <li><b>Repository</b> - A project's folder containing and managing all its files.</li>
     </ul>
------
 <h2>References</h2>
     <ul>
         <li>[GitHub](https://github.com/)</li>
