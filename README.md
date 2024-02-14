@@ -28,18 +28,20 @@ You can download it from their official site at [Git](https://git-scm.com/downlo
 8. Click "Clone" and you are now ready to add, commit, and push changes locally
 -----
 <h2>Part 2: Glossary to include these terms in a bulleted list.</h2>
-* **Branch -** A new/separate version of the main repository.
-* **Clone -** A full copy of a repository, including all logging and versions of files.
-* **Commit -** Keeps track of our progress and changes as we work. Always include a message.
-* **Fetch -** Adding changes from the remote repository to the local working branch without committing them.
-* **Git -** An open-source program for tracking changes in text files.
-* **GitHub -** A platform for creating, storing, managing, and sharing code.
-* **Merge -** Combining changes from one branch into another.
-* **Merge Conflict -** A difference between merged branches that must be resolved before completing the merge.
-* **Push -** Sending changes to a remote repository.
-* **Pull -** Receiving changes from a remote repository and merging them into the local repository.
-* **Remote -** The version of a repository hosted on a server for example GitHub.
-* **Repository -** A project's folder containing and managing all its files.
+    <ul>
+        <li><b>Branch</b> - A new/separate version of the main repository.</li>
+        <li><b>Clone</b> - A full copy of a repository, including all logging and versions of files.</li>
+        <li><b>Commit</b> - Keeps track of our progress and changes as we work. Always include a message.</li>
+        <li><b>Fetch</b> - Adding changes from the remote repository to the local working branch without committing them.</li>
+        <li><b>Git</b> - An open-source program for tracking changes in text files.</li>
+        <li><b>GitHub</b> - A platform for creating, storing, managing, and sharing code.</li>
+        <li><b>Merge</b> - Combining changes from one branch into another.</li>
+        <li><b>Merge Conflict</b> - A difference between merged branches that must be resolved before completing the merge.</li>
+        <li><b>Push</b> - Sending changes to a remote repository.</li>
+        <li><b>Pull</b> - Receiving changes from a remote repository and merging them into the local repository.</li>
+        <li><b>Remote</b> - The version of a repository hosted on a server for example GitHub.</li>
+        <li><b>Repository</b> - A project's folder containing and managing all its files.</li>
+    </ul>
 -----
 ## References
 * [GitHub](https://github.com/)
