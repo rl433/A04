@@ -41,3 +41,12 @@ You can download it from their official site at [Git](https://git-scm.com/downlo
 * **Remote -** The version of a repository hosted on a server for example GitHub.
 * **Repository -** A project's folder containing and managing all its files.
 -----
+## References
+* [GitHub](https://github.com/)
+* [Git Official Site](https://git-scm.com/downloads)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+* [Wikipedia - GitHub](https://en.wikipedia.org/wiki/GitHub)
+* [Wikipedia - Git](https://en.wikipedia.org/wiki/Git)
+* [GitHub Documentation - Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+* [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
